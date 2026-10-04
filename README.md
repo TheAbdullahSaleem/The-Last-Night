@@ -237,9 +237,7 @@ The-Last-Light/
 │
 ├── docs/
 │
-└── README.md
-```
-
+└── README.md```
 ---
 
 ## Current Status
